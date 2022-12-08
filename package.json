@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/zephyrzambrano/SSW-695A-Capstone-Project#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.18.2",
     "express-handlebars": "^5.1.0",
     "handlebars": "^4.7.6",
     "mongodb": "^3.6.2"
